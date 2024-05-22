@@ -15,7 +15,7 @@ if continuar==1:
     continuar = int(input("digite 1 para continuar ou 2 para finalizar: "))
 
 else:
-    print("Até logo")
+    print("Até logo, obrigado!)
 
 
 
